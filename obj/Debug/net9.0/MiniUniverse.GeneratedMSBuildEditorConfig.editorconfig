@@ -21,8 +21,8 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/home/silli/Projects/Coding/MiniUniverse/App.axaml]
+[/home/silli/Projects/Coding/MiniUniverse/avalonia/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/silli/Projects/Coding/MiniUniverse/MainWindow.axaml]
+[/home/silli/Projects/Coding/MiniUniverse/avalonia/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

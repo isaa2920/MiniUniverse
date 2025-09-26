@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniUniverse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf954039e737a837bda9611fdf5eab495075c5d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniUniverse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniUniverse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
